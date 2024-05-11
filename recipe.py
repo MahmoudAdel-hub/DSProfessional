@@ -11,7 +11,7 @@ def predict(point1):
             raise ValueError("Please enter positive values for calories, carbohydrate, sugar, and servings.")
     
     mo = 0
-    for _1 in point1[0][5:]:
+    for _1 in point1[0][4:]:
         if _1 <= 1 and _1 >= 0:
             mo += _1
             
