@@ -1,0 +1,7 @@
+streamlit==1.33.0
+joblib==1.2.0
+pandas==1.4.3
+scikit-learn==1.2.1
+lightgbm==3.3.5
+xgboost==1.7.1
+catboost==1.1.1
