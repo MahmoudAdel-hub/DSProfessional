@@ -42,7 +42,7 @@ def main():
     .prediction-box {
         background-color: #ffffff;
         padding: 10px;
-        border-radius: 5px;
+        border-radius: 15px;
         margin-top: 20px;
     }
     .estimate {
