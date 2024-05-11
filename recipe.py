@@ -33,7 +33,7 @@ def predict(point1):
 
 
 def main(): 
-    st.title("Negative Comments Predictor")
+    st.title("Recipe Traffic Predictor")
     html_temp = """
     <style>
        .stApp {
